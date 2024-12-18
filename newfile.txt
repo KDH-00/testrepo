@@ -1,5 +1,5 @@
-0) git pull
-1) 파일 변경 및 생성
+0) git pull(동기화)
+1) 파일 변경 및 생성(컴퓨터에서)
 2) git add .
 3) git commit -m '메세지'
 4) git push
